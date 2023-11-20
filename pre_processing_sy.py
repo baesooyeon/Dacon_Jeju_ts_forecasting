@@ -34,6 +34,8 @@ def pre_all(train, test):
     # 라벨 인코딩
     df["year_month"] = le.fit_transform(df["year_month"])
 
+    
+
     # 주차 변수 추가
     df["week"] = df["timestamp"].map(lambda x: datetime.datetime(x.year, x.month, x.day).isocalendar()[1])
 
@@ -57,18 +59,18 @@ def pre_all(train, test):
     df.loc[df['timestamp']=='2019-12-31','week_num']=52
 
 
-    # 계절 추가
-    def make_season(x):
-        if x in [12,1,2]:
-            return 0
-        elif x in [3,4,5]:
-            return 1
-        elif x in [6,7,8]:
-            return 2
-        elif x in [9,10,11]:
-            return 3
+    # # 계절 추가
+    # def make_season(x):
+    #     if x in [12,1,2]:
+    #         return 0
+    #     elif x in [3,4,5]:
+    #         return 1
+    #     elif x in [6,7,8]:
+    #         return 2
+    #     elif x in [9,10,11]:
+    #         return 3
         
-    df["season"] =df["month"].map(lambda  x:make_season(x))
+    # df["season"] =df["month"].map(lambda  x:make_season(x))
 
     # 공휴일 변수 추가
     def make_holi(x):
