@@ -10,3 +10,5 @@
 ## 결과
 Public Score : 653.72917 (12등)
 > **Private Score : 812.55943 (**1등**)**
+> ![image](https://github.com/baesooyeon/Jeju_ts_forecasting/assets/102578702/e11daffd-3a6a-4396-b770-6b7e7ed902ca)
+
