@@ -12,3 +12,5 @@
 > 
 > ![image](https://github.com/baesooyeon/Jeju_ts_forecasting/assets/102578702/e11daffd-3a6a-4396-b770-6b7e7ed902ca)
 
+## 상세내용
+PPT 및 code 참고
