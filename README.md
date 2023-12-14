@@ -17,5 +17,6 @@ PPT 및 code 참고
 
 ## 잡담
 여러가지 방법을 시도한 흔적들...
-![image](https://github.com/baesooyeon/Dacon_Jeju_ts_forecasting/assets/102578702/1ab3e96d-5493-465d-8419-1c8fd9020d9d)
+![스크린샷 2023-12-14 102747](https://github.com/baesooyeon/Dacon_Jeju_ts_forecasting/assets/102578702/0c2ae016-8fd0-435e-af0a-fe9f700f956d)
+
 
