@@ -7,13 +7,16 @@
   - 주최 : 제주특별자치도
   - 주관 : 제주테크노파크, 데이콘
 
+
 ## 결과
 > **Private Score : 812.55943 (**1/1093**)**
 > 
 > ![image](https://github.com/baesooyeon/Dacon_Jeju_ts_forecasting/assets/102578702/c7475a49-07d3-4581-959a-c4e2f0af7aff)
 
+
 ## 상세내용
 PPT 및 code 참고
+
 
 ## 잡담
 여러가지 방법을 시도한 흔적들...
