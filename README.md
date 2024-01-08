@@ -10,7 +10,7 @@
 ## 결과
 > **Private Score : 812.55943 (**1/1093**)**
 > 
-> ![image](https://github.com/baesooyeon/Jeju_ts_forecasting/assets/102578702/e11daffd-3a6a-4396-b770-6b7e7ed902ca)
+> ![image](https://github.com/baesooyeon/Dacon_Jeju_ts_forecasting/assets/102578702/c7475a49-07d3-4581-959a-c4e2f0af7aff)
 
 ## 상세내용
 PPT 및 code 참고
