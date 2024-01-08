@@ -15,7 +15,7 @@
 
 
 ## 상세내용
-[PPT](#https://github.com/baesooyeon/Dacon_Jeju_ts_forecasting/blob/main/1.PPT/%EC%A0%9C%EC%A3%BC%20%ED%8A%B9%EC%82%B0%EB%AC%BC%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.pdf) 및 code 참고
+[PPT](https://github.com/baesooyeon/Dacon_Jeju_ts_forecasting/blob/main/1.PPT/%EC%A0%9C%EC%A3%BC%20%ED%8A%B9%EC%82%B0%EB%AC%BC%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.pdf) 및 code 참고
 
 ## 잡담
 여러가지 방법을 시도한 흔적들...
